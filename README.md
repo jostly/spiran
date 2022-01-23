@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Förhandling i spiran
 
-You can use the [editor on GitHub](https://github.com/jostly/spiran/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Förhandling 1, fyra resurser
 
-### Markdown
+![](/img/spiran 0.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Fyra olika resurser vill de ha.
 
-```markdown
-Syntax highlighted code block
+![](/img/spiran 1.png)
 
-# Header 1
-## Header 2
-### Header 3
+Jag fyller i en av varje, och lägger dubbelt av den sista. Där man kan ta vilken man vill på den sista, det spelar ingen roll.
 
-- Bulleted
-- List
+![](/img/spiran 2.png)
 
-1. Numbered
-2. List
+Här är svaret. Två rätt direkt, två används inte, och en, juvelerna, används men är på fel plats.
 
-**Bold** and _Italic_ and `Code` text
+![](/img/spiran 3.png)
 
-[Link](url) and ![Image](src)
-```
+Det enda jag vet är att det måste vara pulver på plats 4, eftersom det inte kan vara juvel. På de andra chansar jag bara.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![](/img/spiran 4.png)
 
-### Jekyll Themes
+Och där är svaret. Nu behöver jag bara byta plats på 1 och 2, så är det klart.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jostly/spiran/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![](/img/spiran 5.png)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Förhandling 2, fyra resurser
+
